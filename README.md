@@ -1,6 +1,4 @@
 # 💫 About Me:
-<h2>👋 About Me</h2>
-
 <p>
   I'm a <strong>2nd-year B.Tech CSE student</strong> passionate about building
   <strong>scalable projects/strong> and solving real-world problems through code.
