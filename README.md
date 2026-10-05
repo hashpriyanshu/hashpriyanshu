@@ -1,5 +1,15 @@
 # 💫 About Me:
-I'm Currently Working on Scalable Web Applications.<br>Ensuring My Focus on Problem Solving Skills With Optimal Approach<br>
+<h2>👋 About Me</h2>
+
+<p>
+  I'm a <strong>2nd-year B.Tech CSE student</strong> passionate about building
+  <strong>scalable projects/strong> and solving real-world problems through code.
+</p>
+
+<ul>
+  <li>💻 Currently focused on <strong>Frontend Development & Full-Stack Development</strong></li>
+  <li>🤖 Exploring <strong>AI-powered applications and developer tools</strong></li>
+</ul>
 
 
 ## 🌐 Socials:
